@@ -1,0 +1,4 @@
+Epoch 1  : loss: 0.0794 - accuracy: 0.9660 - val_loss: 1.1940 - val_accuracy: 0.8309
+Epoch 2  : loss: 0.0631 - accuracy: 0.9745 - val_loss: 1.0642 - val_accuracy: 0.8247
+Epoch 3  : loss: 0.0507 - accuracy: 0.9745 - val_loss: 1.2919 - val_accuracy: 0.8474
+Epoch 4  : loss: 0.0620 - accuracy: 0.9727 - val_loss: 1.1710 - val_accuracy: 0.8082

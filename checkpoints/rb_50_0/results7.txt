@@ -1,0 +1,18 @@
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.88      0.84       124
+           1       0.92      0.88      0.90       288
+           2       0.78      0.79      0.79        73
+
+    accuracy                           0.87       485
+   macro avg       0.84      0.85      0.84       485
+weighted avg       0.87      0.87      0.87       485
+
+Accuracy:                           0.865979381443299
+Accuracy from evaluation:          0.8659793734550476
+
+Confusion matrix:
+109  11  4
+ 23 253 12
+  4  11 58
